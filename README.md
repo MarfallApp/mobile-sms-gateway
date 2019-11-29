@@ -6,7 +6,7 @@
 
 ##  Send SMS
 
-Rename `config.dist.php` file into `config.php`
+Rename `config.dist.php` file into `config.php` and
 Open `config.php` and change `AUTH_KEY` and `SERVER` value  
 
 
