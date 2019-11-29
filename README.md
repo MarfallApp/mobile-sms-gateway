@@ -4,8 +4,7 @@
 ## Contact: admin@ntechpark.com
 
 
-// Send SMS
-// --------------------
+##  Send SMS
 
 
 require_once('autoload.php');
