@@ -6,6 +6,9 @@
 
 ##  Send SMS
 
+Rename `config.dist.php` file into `config.php`
+Open `config.php` and change `AUTH_KEY` and `SERVER` value  
+
 
 ```require_once('autoload.php');
 
