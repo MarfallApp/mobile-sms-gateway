@@ -1,6 +1,6 @@
 # Mobile SMS Gateway Api
 
-### Developed by nTechpark Technologies Ltd.
+### Developed by [nTechpark Technologies Ltd.](http://ntechpark.com)
 ### Contact: admin@ntechpark.com
 
 
@@ -77,3 +77,5 @@ Array
 
 */
 ```
+
+## For more example browe /examples folder
