@@ -4,9 +4,7 @@
 ## Contact: admin@ntechpark.com
 
 
-## Sedn Quick SMS
-
-// Send Single SMS
+// Send SMS
 // --------------------
 
 
