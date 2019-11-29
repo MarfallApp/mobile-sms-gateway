@@ -1,13 +1,13 @@
 # Mobile SMS Gateway Api
 
-## Developed by nTechpark Technologies Ltd.
-## Contact: admin@ntechpark.com
+### Developed by nTechpark Technologies Ltd.
+### Contact: admin@ntechpark.com
 
 
 ##  Send SMS
 
 
-require_once('autoload.php');
+```require_once('autoload.php');
 
 $apiClient = new SMSGatewayApi(AUTH_KEY, SERVER);
 
@@ -76,3 +76,4 @@ Array
 )
 
 */
+```
