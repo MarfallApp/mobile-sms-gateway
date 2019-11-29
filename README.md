@@ -78,4 +78,4 @@ Array
 */
 ```
 
-## For more example browe /examples folder
+## For more examples browse inside /examples folder.
