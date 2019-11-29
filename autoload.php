@@ -1,6 +1,5 @@
 <?php
-define('ROOT', __DIR__);
-require_once(ROOT.'/config.php');
-require_once(ROOT.'/lib/SMSGatewayApi.php');
+require_once(__DIR__.'/config.php');
+require_once(__DIR__.'/lib/SMSGatewayApi.php');
 
 $apiClient = new SMSGatewayApi(AUTH_KEY, SERVER);
