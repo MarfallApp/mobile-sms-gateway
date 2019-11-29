@@ -38,7 +38,7 @@ Array
                     [status] => delivered
                     [device] => ARS-L22
                     [sim] => 2
-                    [mobile_no] => 01737346122
+                    [mobile_no] => 14156661234
                     [message] => This SMS from API at localhost
                     [username] => admin.sms@ntechpark.com
                     [created_by] => 1

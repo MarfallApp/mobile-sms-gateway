@@ -13,8 +13,8 @@ $apiClient = new SMSGatewayApi(AUTH_KEY, SERVER);
 try {
 
     $mobile_numbers = array(
-        '01737346122',
-        '01303595747',
+        '14156661234',
+        '14156661235',
     );
 
     $response = $apiClient->sendMultipleSMS($mobile_numbers, 'Hi Mike, This is a test messsage', 'ARS-L22', 2, 'now');
@@ -47,7 +47,7 @@ Array
                     [queue_id] => 15750413253ec1
                     [device_model] => ARS-L22
                     [sim_id] => 2
-                    [mobile_no] => 01737346122
+                    [mobile_no] => 14156661234
                     [message] => Hi [contact_name] from  [site_name] at [common_date_time]
                     [created_at] => 2019-11-29 21:28:45
                 )
@@ -58,7 +58,7 @@ Array
                     [queue_id] => 15750413250101
                     [device_model] => ARS-L22
                     [sim_id] => 2
-                    [mobile_no] => 01303595747
+                    [mobile_no] => 14156661235
                     [message] => Hi [contact_name] from  [site_name] at [common_date_time]
                     [created_at] => 2019-11-29 21:28:45
                 )
