@@ -1,4 +1,4 @@
-# Mobile SMS Gateway API
+# Smartphone SMS Gateway API
 
 ### Developed by [nTechpark Technologies Ltd.](http://ntechpark.com)
 ### Contact: admin@ntechpark.com

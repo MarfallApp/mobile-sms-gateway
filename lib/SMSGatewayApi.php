@@ -23,7 +23,7 @@ class SMSGatewayApi {
 	 * @param string     $mobile_no  The mobile number where you want to send message.
 	 * @param string     $message The message you want to send.
 	 * @param string     $device_model The model of the device you want to use to send this message.
-	 * @param int|string $sim_id  The id  of the sim you want to use to send this message.
+	 * @param int 		 $sim_id  The id  of the sim you want to use to send this message.
 	 *
 	 * @return array     Returns The array containing information about the message.
 	 * @throws Exception If there is an error while sending a message.
@@ -39,8 +39,8 @@ class SMSGatewayApi {
 	 * @param array         $mobile_numbers  The mobile number where you want to send message.
 	 * @param string        $message The message you want to send.
 	 * @param string        $device_model The model of the device you want to use to send this message.
-	 * @param int|string    $sim_id  The id  of the sim you want to use to send this message.
-	 * @param string        now | tomorrow | after_5_days | 30 | 60 | 120 | 300 | 1800 | 3600 | 18000
+	 * @param int    		$sim_id  The id  of the sim you want to use to send this message.
+	 * @param string        $send_at | tomorrow | after_5_days | 30 | 60 | 120 | 300 | 1800 | 3600 | 18000
 	 *
 	 * @return array     Returns The array containing information about the message.
 	 * @throws Exception If there is an error while sending a message.
