@@ -16,7 +16,7 @@ $apiClient = new SMSGatewayApi(AUTH_KEY, SERVER);
 
 try {
 
-    $response = $apiClient->sendSMS('01303595747', 'This SMS from API at localhost', 'ARS-L22', 2);
+    $response = $apiClient->sendSMS('14156661234', 'This SMS from API at localhost', 'ARS-L22', 2);
     print_r($response);
 
 } catch (Exception $e) {
