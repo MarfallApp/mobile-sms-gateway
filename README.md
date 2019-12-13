@@ -1,4 +1,4 @@
-# Smartphone SMS Gateway API
+# SMSGun API
 
 ### Developed by [nTechpark Technologies Ltd.](http://ntechpark.com)
 ### Contact: admin@ntechpark.com

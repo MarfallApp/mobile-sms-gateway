@@ -1,6 +1,6 @@
 <?php
 /**
- * @package		Mobile SMS Gateway Api
+ * @package		SMSGun Api
  * @author		Najmul Hossaiin (contact@ntechpark.com)
  * @copyright	Copyright (c) 2019, nTechpark Technologies Ltd.
  * @link		http://ntechpark.com
