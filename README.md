@@ -1,4 +1,4 @@
-# SMSGun API Client
+# Mobile SMS Gateway API Client
 
 ### Developed by [nTechpark Technologies Ltd.](http://ntechpark.com)
 ### Contact: admin@ntechpark.com
